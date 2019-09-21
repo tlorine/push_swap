@@ -1,0 +1,1 @@
+gcc validation_check.c visual_check.c checker.c gnl/get_next_line.c gnl/get_next_line.h push_swap.h libft/libft.a create_list.c list_operation.c work_with_elem.c use_command.c commands.c

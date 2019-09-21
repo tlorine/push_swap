@@ -1,0 +1,1 @@
+gcc push_swap.c create_list.c validation_check.c commands.c list_operation.c work_with_elem.c work_with_elem_2.c use_command.c hundred_elem.c five_hundred_elem_sort.c ten_elem_sort.c three_elem_sort.c libft/libft.a -I push_swap.h -o push_swap
